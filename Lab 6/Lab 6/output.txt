@@ -1,0 +1,8 @@
+Bao Trang
+Computer Science 1 - Professor Benjamin Shelton
+This program will demonstrate how the switch statement works.
+Pi times radius squared
+Length times width
+Pi times radius squared times height
+Well okay then...Goodbye!
+Not good with numbers, eh?
